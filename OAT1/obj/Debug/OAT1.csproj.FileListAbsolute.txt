@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\OAT1\OAT1\obj\Debug\OAT1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\OAT1\OAT1\obj\Debug\OAT1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\OAT1\OAT1\bin\Debug\OAT1.exe.config
+C:\Users\ADMIN\source\repos\OAT1\OAT1\bin\Debug\OAT1.exe
+C:\Users\ADMIN\source\repos\OAT1\OAT1\bin\Debug\OAT1.pdb
+C:\Users\ADMIN\source\repos\OAT1\OAT1\obj\Debug\OAT1.exe
+C:\Users\ADMIN\source\repos\OAT1\OAT1\obj\Debug\OAT1.pdb
